@@ -1,6 +1,6 @@
 ### Hi, I'm Ewan 👋
 
-I'm 17 years old and I'm a Software Engineer from Wales.
+I'm 18 years old and I'm a Software Engineer from Wales.
 
 #### 🔭 What I use right now
 
