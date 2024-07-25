@@ -8,4 +8,4 @@ I'm 19 years old and I'm a Software Engineer from Wales.
 | --- | --- |
 | Email | ewan@crowle.me |
 | Twitter | [@ewancrowle](https://twitter.com/ewancrowle) |
-| LinkedIn | [@ewancrowle](https://linkedin.com/in/ewancrowle) also |
+| LinkedIn | [in/ewancrowle](https://linkedin.com/in/ewancrowle) |
