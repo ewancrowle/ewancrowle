@@ -1,6 +1,6 @@
 ### Hi, I'm Ewan 👋
 
-I'm 19 years old and I'm a Software Engineer from Wales.
+I'm 19 years old, from Wales, and I'm a Software Engineer and Student at Cardiff University.
 
 #### 📫 How to reach me
 
